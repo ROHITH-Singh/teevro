@@ -1,4 +1,4 @@
-# deployed on github pages view at below link
+# deployed on github pages view on below link
 https://rohith-singh.github.io/teevro/
 
 # libraries used
