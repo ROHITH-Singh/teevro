@@ -1,6 +1,13 @@
 # deployed on github pages view at below link
 https://rohith-singh.github.io/teevro/
 
+# libraries used
+  1=> papaparser for parsing csv file
+  2=> firestore for saving the data and authentication 
+  3=> github pages for deploying
+  
+
+
 
 
 # Getting Started with Create React App
