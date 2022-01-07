@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teevro/static/css/main.e4289d05.css",
+    "main.js": "/teevro/static/js/main.f97361ab.js",
+    "static/js/787.7fbe0fba.chunk.js": "/teevro/static/js/787.7fbe0fba.chunk.js",
+    "index.html": "/teevro/index.html",
+    "main.e4289d05.css.map": "/teevro/static/css/main.e4289d05.css.map",
+    "main.f97361ab.js.map": "/teevro/static/js/main.f97361ab.js.map",
+    "787.7fbe0fba.chunk.js.map": "/teevro/static/js/787.7fbe0fba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4289d05.css",
+    "static/js/main.f97361ab.js"
+  ]
+}
